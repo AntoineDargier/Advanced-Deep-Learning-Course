@@ -20,4 +20,4 @@ Visualization of a CNN to highlight the regions of the input image that were imp
 * ```numpy```
 
 ### Conclusion
-Grad-CAM is a powerful tool for visualizing the important regions in an image that a CNN uses to make a prediction. It provides an effective way to interpret and understand the decision-making process of CNNs, which is especially useful for improving model transparency and debugging performance issues. By using Grad-CAM, we can gain a deeper understanding of how CNNs work, and ultimately improve their performance in real-world applications.
+Grad-CAM is a powerful tool for visualizing the important regions in an image that a CNN uses to make a prediction. It provides an effective way to interpret and understand the decision-making process of CNNs, which is especially useful for improving model transparency and debugging performance issues. By using Grad-CAM, I can gain a deeper understanding of how CNNs work, and ultimately improve their performance in real-world applications.
