@@ -1,4 +1,4 @@
-# Deep Learning interpretatbility with GradCAM
+# Deep Learning interpretability with GradCAM
 
 ### Goal
 Visualization of a CNN to highlight the regions of the input image that were important for the neural network prediction.
