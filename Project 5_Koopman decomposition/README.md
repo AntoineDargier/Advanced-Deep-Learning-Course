@@ -27,7 +27,7 @@ To improve the training process in both case (here the improvements were only as
 * introduce weights in order to ponderate each of the terms of the loss and try to balance the order of magnitude for each of them.
 
 With these improvements, the overall results of each process are the following :
-* in the discontinuous case with the Koopman operator, we found a final loss after 100 epochs of  6.10−5 , for a computation time of 290 seconds.
-* in the continuous case with the Lie operator, we found a final loss after 100 epochs of  3.10−6, for a computation time of 280 seconds.
+* in the discontinuous case with the Koopman operator, I found a final loss after 100 epochs of  6.10−5 , for a computation time of 290 seconds.
+* in the continuous case with the Lie operator, I found a final loss after 100 epochs of  3.10−6, for a computation time of 280 seconds.
 
-Even though the two methods are very similar in terms of computation time, it seems that learning of dynamical systems with neural networks gets more efficient in the continuous case with the Lie operator, than in the discontinuous case with the Koopman operator. Indeed, after 100 epochs, the final loss of the first one is up to 20 times lower than the loss of the latter. Taking into account that we tried to improve the training process of it with the previous cited actions, it gives no more doubt that the continuous case is far better in our study.
+Even though the two methods are very similar in terms of computation time, it seems that learning of dynamical systems with neural networks gets more efficient in the continuous case with the Lie operator, than in the discontinuous case with the Koopman operator. Indeed, after 100 epochs, the final loss of the first one is up to 20 times lower than the loss of the latter. Taking into account that I tried to improve the training process of it with the previous cited actions, it gives no more doubt that the continuous case is far better in our study.
