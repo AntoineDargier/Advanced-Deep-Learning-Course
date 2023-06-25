@@ -18,7 +18,7 @@ Use generative models (GANs, VAEs, Normalizing flows) to generate more data or b
 * ```matplotlib```
 
 ### Conclusion
-In this lab, we have implemented and compared the performances of three models: GANs, VAEs and Normalizing flows. Here is the conclusion we can have following our analysis:
+In this lab, I have implemented and compared the performances of three models: GANs, VAEs and Normalizing flows. Here is the conclusion we can have following our analysis:
 
 * GANs: GANs have several advantages: they can be used of very various applications, and are capable of generating high-quality, realistic images. However, they are very difficult to train, and it can take a lot of time. A big other problem of GANs is that they can be unstable and prone to mode collapse, where the generator produces a limited set of samples that do not represent the full data distribution.
 * VAEs: VAEs are very powerful tooks, because they can work with a lot of different data, whether they are labeled or not. A big drawback of VAEs is the fact that they can generate samples that are blurry or less sharp than GANs. This is caused by the way data distributions are recovered, and loss functions are calculated.
