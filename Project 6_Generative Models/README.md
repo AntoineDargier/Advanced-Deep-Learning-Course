@@ -4,7 +4,7 @@
 Use generative models (GANs, VAEs, Normalizing flows) to generate more data or better understand the data at hand. Mathematical understanding.
 
 ### Language
-````Python```
+```Python```
 
 ### Contents
 1. Generative Adversarial Networks (GANs)
