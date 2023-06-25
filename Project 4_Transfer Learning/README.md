@@ -3,7 +3,7 @@
 ### Goal
 Use of Transfer Learning and Data Augmentation to improve challenging context, in which few data and resources are available.
 
-### Laguage
+### Language
 ```Python```
 
 ### Contents
