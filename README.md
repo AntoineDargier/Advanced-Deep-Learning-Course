@@ -1,5 +1,5 @@
 # Advanced-Deep-Learning-Course
-Deep Learning projects (CS x MVA)
+Deep Learning projects (CS x MVA), Spring 2023
 
 ### Projects
 1. Hyper-parameters and training basics: Test of different architectures (impact of the learning rate, optimizer, loss function) of Deep Learning models on three problems: classification, multilabel classification and regression.
